@@ -20,18 +20,19 @@ Clone the repo.
 
 ### Running
 
-Run server.js with Node.js
+Steps:
 
-```
-cd server
-node server.js
-```
+1. Run server.js with Node.js:
 
-Open any web browser to
+	```
+	node server/server.js
+	```
 
-```
-localhost:80
-```
+2. Open any web browser to:
+
+	```
+	localhost:80
+	```
 
 ## Deployment
 
